@@ -1,0 +1,73 @@
+.card {
+    width: 250px;
+    height: auto;
+    border: 2px solid black;
+    margin: 20px;
+    background-color: transparent;
+    color: white;
+    border-radius: 30px;
+    margin-left: 1em;
+  }
+  
+  .all {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .card-image {
+    border-bottom: solid 2px red;
+    width:75px;
+    margin: 4em;
+  }
+  
+  .input {
+    display: flex;
+    width: 40%;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  .search {
+    border: 20px solid black;
+  }
+  
+  .heading {
+    color: white;
+  }
+  
+  .material-icons {
+    color: black;
+  }
+  
+  .btn {
+  }
+
+  .supported {
+    margin: 0;
+  }
+  
+  .date {
+    margin-left: 10px;
+    margin-top: -1em;
+  }
+  .city {
+    margin-left: -.2em;
+    font-size: xx-large;
+    font-family: fantasy;
+  }
+  body {
+    background-image: url("https://thespinoff.co.nz/wp-content/uploads/2019/06/eight_col_lightning-thumb.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+  }
+  .info {
+    margin-top: -5em;
+    display: flex;
+    justify-content: center;
+    color: black;
+    background-color: #fff;
+  }
